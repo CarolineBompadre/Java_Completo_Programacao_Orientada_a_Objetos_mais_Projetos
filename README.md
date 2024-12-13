@@ -12,4 +12,9 @@ Dentro desse repositório, estão alguns exercícios realizados para a prática 
 
 <h2> Seção 4 </h2>
 <h4> Estrutura Sequencial </h4>
-<p> Expressões Comparativas, Condicionais (if-else) </p>
+<p> Variáveis, Entraída, Processamento e Saída de Dados </p>
+
+<h2> Seção 5 </h2>
+<h4> Estrutura Condicional </h4>
+<p> Expressões comparativas, lógicas, consicionais (if-else) </p>
+
